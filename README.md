@@ -53,3 +53,11 @@ The learning outcomes of this project are:
 * Developing a web application using the Streamlit module to showcase the machine learning models and make predictions on new data.
 
 * Understanding the challenges and best practices in the manufacturing domain and how machine learning can help solve them.
+
+# About The app 
+
+Creating a colourful dashboard to predict selling price and predicted status , which comes with a dropdown of selecting several features to predict the selling price of copper
+
+![psp](https://github.com/Clintonnick3/Industrial-Copper-Modeling/assets/129974527/2fa726ee-9591-45eb-af3e-78e382e61032)
+
+
