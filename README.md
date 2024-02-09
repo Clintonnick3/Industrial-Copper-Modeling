@@ -1,3 +1,15 @@
 # Industrial-Copper-Modeling
 
-https://industrial-copper-modeling-prbf9uwus5plz4uwhqxhu7.streamlit.app/
+# Introduction :
+This project aims to develop two machine learning models for the copper industry to address the challenges of predicting selling price and lead classification. Manual predictions can be time-consuming and may not result in optimal pricing decisions or accurately capture leads. The models will utilize advanced techniques such as data normalization, outlier detection and handling, handling data in the wrong format, identifying the distribution of features, and leveraging tree-based models, specifically the decision tree algorithm, to predict the selling price and leads accurately.
+
+# Requirements :
+This project requires the following libraries to be installed:
+
+* NumPy
+
+* Pandas
+
+* Scikit-learn
+
+* Streamlit
