@@ -62,5 +62,7 @@ Creating a colourful dashboard to predict selling price and predicted status , w
 
 Training and Evaluating the diffrent classification models such as ExtraTreesClassifier, XGBClassifier, or Logistic Regression, using appropriate evaluation metrics such as accuracy, precision, recall, F1 score, and AUC curve. ML Regression model which predicts continuous variable ‘Selling_Price’. ML Classification model which predicts Status: WON or LOST. Creating a streamlit page where you can insert each column value and you will get the Selling_Price predicted value or Status(Won/Lost).
 
+![ps](https://github.com/Clintonnick3/Industrial-Copper-Modeling/assets/129974527/f6d4090d-d686-47b3-a2dc-d00e2b33cd46)
+
 
 
